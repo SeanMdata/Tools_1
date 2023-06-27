@@ -1,7 +1,7 @@
-.ipynb_checkpoints
-.csv
-.txt
-.gv
-.logxx
-.sh
-.html
+*.ipynb_checkpoints
+*.csv
+*.txt
+*.gv
+*.logxx
+*.sh
+*.html
